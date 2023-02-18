@@ -1,0 +1,52 @@
+body{
+    margin: 0%;
+    padding:0%;
+    background: black;
+    color: white;
+}
+.post{
+    width: 300px;
+    height: 400px;
+    background-color:black;
+    border: 1px solid white;
+    border-radius: 10px;
+    margin: 10px;
+
+
+}
+img{
+    width: 300px;
+    height: 200px; 
+    border-radius: 10px 10px 0px 0px;
+}
+p{
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    margin-left: 10px;
+
+}
+
+.text{
+    text-overflow:ellipsis;
+    overflow:hidden ;
+    white-space: nowrap;
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    margin-left: 10px;
+}
+
+button{
+    background: black;
+    color: white;
+    border-color: white;
+    text-decoration: none;
+    border-radius: 20px;
+    width:250px;
+    height: 40px;
+    margin:10px;
+    margin-left: 25px;
+}
